@@ -3,6 +3,7 @@
 *.txt
 *.png
 *.docx
+*.env
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
