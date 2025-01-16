@@ -1,0 +1,1865 @@
+,cleaned_required_skills,simplified_job_title,count
+0,,Business Intelligence,1
+1,,Data Analyst,1
+2,,Data Scientist,1
+3,ab test,Data Scientist,1
+4,ab testing,Business Intelligence,1
+5,ab testing,Data Analyst,8
+6,ab testing,Data Scientist,18
+7,access,Data Analyst,1
+8,accounting,Data Analyst,3
+9,accounting method,Data Analyst,1
+10,acquisition funnel,Data Scientist,1
+11,ad experimentation,Data Scientist,1
+12,ad hoc analysis,Business Intelligence,1
+13,ad hoc reporting,Business Intelligence,1
+14,ad tech,Data Scientist,1
+15,adaptability,Business Intelligence,1
+16,adaptability,Data Analyst,2
+17,adhoc analysis,Data Scientist,1
+18,admin support,Data Analyst,1
+19,adobe,Data Analyst,1
+20,adobe acrobat,Business Intelligence,1
+21,adobe analytics,Data Analyst,4
+22,adtech,Data Scientist,1
+23,advanced analysis,Data Scientist,1
+24,advanced analytics,Data Analyst,2
+25,advanced analytics,Data Scientist,7
+26,advanced computer skill,Data Analyst,1
+27,advanced excel,Data Analyst,3
+28,advanced machine learning,Data Scientist,1
+29,advanced mathematics,Data Scientist,1
+30,advanced modeling,Data Analyst,1
+31,advanced python,Data Scientist,1
+32,advanced sql,Business Intelligence,1
+33,advertising experience,Data Analyst,1
+34,agile,Business Intelligence,1
+35,agile,Data Analyst,9
+36,agile,Data Scientist,6
+37,agile development,Data Analyst,1
+38,agile development,Data Scientist,2
+39,agile methodology,Data Analyst,3
+40,agile methodology,Data Scientist,2
+41,agile product development,Data Analyst,1
+42,agile project management,Business Intelligence,1
+43,agile scrum,Business Intelligence,1
+44,agile sdlc,Business Intelligence,1
+45,ai,Data Scientist,13
+46,ai,Intern,4
+47,ai implementation,Business Intelligence,1
+48,ai library,Data Scientist,1
+49,ai strategy,Data Scientist,1
+50,ai technique,Data Scientist,1
+51,ai tool,Data Analyst,1
+52,aiml,Data Analyst,2
+53,aiml,Data Scientist,3
+54,aiml knowledge,Data Analyst,1
+55,aiml modeling,Data Scientist,2
+56,aiml technique,Data Scientist,1
+57,airflow,Data Analyst,4
+58,airflow,Data Scientist,1
+59,algorithm,Data Analyst,2
+60,algorithm,Data Scientist,7
+61,algorithm design,Data Scientist,1
+62,algorithm development,Data Scientist,3
+63,algorithm implementation,Data Scientist,1
+64,alteryx,Business Intelligence,1
+65,alteryx,Data Analyst,4
+66,alteryx,Data Scientist,1
+67,amazon quicksight,Business Intelligence,1
+68,amazon stack,Data Analyst,1
+69,aml,Data Analyst,1
+70,aml,Data Scientist,1
+71,amplitude,Data Scientist,1
+72,analysis,Data Scientist,2
+73,analytic,Data Scientist,1
+74,analytic chart,Data Scientist,1
+75,analytic skill,Data Analyst,3
+76,analytic skill,Intern,1
+77,analytical,Business Intelligence,1
+78,analytical,Data Analyst,4
+79,analytical,Data Scientist,3
+80,analytical,Intern,1
+81,analytical ability,Data Analyst,1
+82,analytical background,Data Analyst,1
+83,analytical finding,Data Analyst,1
+84,analytical model,Data Scientist,1
+85,analytical procedure,Data Scientist,1
+86,analytical reasoning,Data Analyst,1
+87,analytical skill,Business Intelligence,10
+88,analytical skill,Data Analyst,43
+89,analytical skill,Data Scientist,11
+90,analytical skill,Intern,2
+91,analytical solution,Data Analyst,1
+92,analytical strategy,Data Analyst,1
+93,analytical technique,Data Scientist,2
+94,analytical thinking,Data Analyst,5
+95,analytical thinking,Data Scientist,2
+96,analytical tool,Data Analyst,1
+97,analytics,Business Intelligence,5
+98,analytics,Data Analyst,15
+99,analytics,Data Scientist,33
+100,analytics,Intern,1
+101,analytics consultant,Data Scientist,1
+102,analytics framework,Data Scientist,1
+103,analytics tool,Data Analyst,1
+104,anaplan,Data Analyst,1
+105,angular,Data Analyst,1
+106,anomaly detection,Data Scientist,5
+107,ansible,Data Analyst,1
+108,apache airflow,Data Analyst,1
+109,apache hadoop,Data Scientist,1
+110,apache kafka,Data Scientist,1
+111,apache pig,Data Scientist,1
+112,apache spark,Data Scientist,2
+113,apache superset,Business Intelligence,1
+114,api development,Data Analyst,1
+115,api development,Data Scientist,1
+116,api integration,Data Analyst,1
+117,api programming,Data Analyst,1
+118,apibased data extraction,Business Intelligence,1
+119,apis,Data Scientist,1
+120,apple pay ecosystem,Data Analyst,1
+121,application development,Data Analyst,1
+122,application development,Data Scientist,1
+123,applied statistic,Data Scientist,1
+124,applied statistic,Intern,1
+125,arcgis,Data Analyst,1
+126,arcgis,Data Scientist,1
+127,arima,Data Scientist,1
+128,artificial intelligence,Data Scientist,10
+129,asset allocation,Data Analyst,1
+130,asset management,Data Analyst,2
+131,at system,Data Analyst,1
+132,atlassian jira,Business Intelligence,1
+133,atmospheric science,Data Scientist,1
+134,attention detail,Business Intelligence,2
+135,attention detail,Data Analyst,15
+136,attention detail,Data Scientist,2
+137,attention detail,Intern,2
+138,attribution,Data Analyst,2
+139,auction theory,Data Scientist,1
+140,audience profiling,Data Analyst,1
+141,audit system,Data Analyst,1
+142,automated workflow,Data Analyst,1
+143,automating process,Business Intelligence,1
+144,automation,Business Intelligence,1
+145,automation,Data Analyst,8
+146,automation technique,Data Analyst,1
+147,automation technique,Data Scientist,1
+148,aviation industry,Data Analyst,1
+149,aws,Business Intelligence,1
+150,aws,Data Analyst,9
+151,aws,Data Scientist,15
+152,aws,Intern,1
+153,aws redshift,Data Analyst,1
+154,aws sagemaker,Data Analyst,1
+155,aws sagemaker,Data Scientist,5
+156,aws technology,Data Scientist,1
+157,azure,Data Analyst,3
+158,azure,Data Scientist,6
+159,azure cloud,Data Scientist,2
+160,azure data analytics,Data Analyst,1
+161,azure data factory,Business Intelligence,1
+162,azure data factory,Data Analyst,2
+163,azure data factory,Data Scientist,1
+164,azure databricks,Data Scientist,1
+165,azure datafactory,Data Scientist,1
+166,azure devops,Data Analyst,2
+167,azure ml,Data Scientist,1
+168,azure service,Data Scientist,1
+169,azure sql,Data Analyst,1
+170,azuredevops,Business Intelligence,1
+171,backend development,Data Scientist,1
+172,bank accounting method,Data Analyst,1
+173,banking analytics,Data Scientist,1
+174,bash,Data Analyst,1
+175,bash,Data Scientist,1
+176,bayesian,Data Scientist,2
+177,bayesian inference,Data Analyst,1
+178,bayesian method,Data Scientist,1
+179,bayesian statistic,Data Scientist,2
+180,bb marketing analytics,Data Analyst,1
+181,bb saas,Data Analyst,1
+182,bc analysis,Data Scientist,1
+183,bdd,Data Scientist,1
+184,benefit administration,Data Analyst,1
+185,bert,Data Scientist,2
+186,best practice,Data Scientist,1
+187,bi,Data Analyst,1
+188,bi dashboard,Data Analyst,1
+189,bi reporting,Data Analyst,1
+190,bi software,Data Scientist,2
+191,bi system,Data Analyst,1
+192,bi tool,Business Intelligence,3
+193,bi tool,Data Analyst,2
+194,bi tool,Data Scientist,3
+195,big data,Data Analyst,6
+196,big data,Data Scientist,30
+197,big data analytics,Data Analyst,1
+198,big data technology,Data Analyst,1
+199,big data technology,Data Scientist,4
+200,bigquery,Data Analyst,2
+201,bigquery,Data Scientist,2
+202,billing,Business Intelligence,1
+203,billing code,Data Analyst,1
+204,billing system,Data Scientist,1
+205,biochemical process,Data Scientist,1
+206,bioinformatics,Data Analyst,1
+207,bioinformatics,Data Scientist,1
+208,biological process,Data Scientist,1
+209,biostatistics,Data Scientist,2
+210,budget analysis,Data Analyst,1
+211,budget management,Data Analyst,1
+212,budgeting,Data Analyst,1
+213,business acumen,Business Intelligence,3
+214,business acumen,Data Analyst,1
+215,business acumen,Data Scientist,6
+216,business analysis,Data Analyst,7
+217,business analysis,Intern,1
+218,business analytics,Data Analyst,6
+219,business collaboration,Data Scientist,1
+220,business experience,Data Analyst,1
+221,business insight,Business Intelligence,1
+222,business intelligence,Business Intelligence,10
+223,business intelligence,Data Analyst,15
+224,business intelligence,Data Scientist,2
+225,business intelligence research,Business Intelligence,1
+226,business intelligence tool,Business Intelligence,1
+227,business intelligence tool,Data Analyst,2
+228,business intelligence tool,Data Scientist,1
+229,business knowledge,Data Scientist,1
+230,business object,Data Analyst,3
+231,business problem,Data Scientist,1
+232,business process analysis,Data Analyst,1
+233,business process mapping,Data Analyst,1
+234,business process optimization,Data Analyst,1
+235,business proficiency,Business Intelligence,1
+236,business recommendation,Data Scientist,1
+237,business reporting,Business Intelligence,1
+238,business reporting,Data Analyst,1
+239,business requirement,Data Analyst,2
+240,business rule,Data Analyst,1
+241,business solution,Data Analyst,1
+242,business strategy,Data Analyst,1
+243,business writing,Data Analyst,1
+244,businessminded,Data Scientist,1
+245,businessobjects,Business Intelligence,1
+246,businessorientation,Data Analyst,1
+247,c,Data Scientist,3
+248,campaign analysis,Data Analyst,1
+249,campaign optimization,Data Scientist,1
+250,campaign performance,Data Scientist,1
+251,campaign targeting,Data Analyst,1
+252,cancer genomics,Data Analyst,1
+253,capa,Data Analyst,1
+254,capacity management,Data Analyst,1
+255,capacity planning,Data Scientist,1
+256,causal analysis,Data Analyst,1
+257,causal inference,Data Analyst,2
+258,causal inference,Data Scientist,9
+259,causal machine learning,Data Scientist,1
+260,causalml,Data Scientist,1
+261,cdl,Data Analyst,1
+262,change management,Data Scientist,1
+263,chatbot,Data Scientist,1
+264,chatbot development,Data Scientist,1
+265,cicd,Data Analyst,1
+266,cicd,Data Scientist,6
+267,cicd,Intern,1
+268,cicd tool,Data Analyst,1
+269,claim data,Data Analyst,2
+270,classification,Data Scientist,2
+271,client engagement,Data Scientist,1
+272,client facing,Data Analyst,1
+273,client liaison,Data Analyst,1
+274,client service,Data Analyst,1
+275,client service,Intern,1
+276,clinical background,Data Analyst,1
+277,clinical development,Data Scientist,1
+278,clinical trial,Data Analyst,2
+279,clinical trial,Data Scientist,1
+280,cloud,Business Intelligence,1
+281,cloud,Data Analyst,2
+282,cloud,Data Scientist,4
+283,cloud,Intern,2
+284,cloud architecture,Data Scientist,2
+285,cloud computing,Data Analyst,2
+286,cloud computing,Data Scientist,20
+287,cloud data platform,Data Analyst,1
+288,cloud data warehouse,Data Analyst,2
+289,cloud database,Data Analyst,1
+290,cloud datawarehouse,Data Analyst,1
+291,cloud development,Data Scientist,1
+292,cloud environment,Data Analyst,1
+293,cloud environment,Data Scientist,5
+294,cloud management,Data Scientist,1
+295,cloud ml,Data Scientist,1
+296,cloud native,Data Analyst,1
+297,cloud platform,Data Analyst,4
+298,cloud platform,Data Scientist,10
+299,cloud service,Data Analyst,1
+300,cloud service,Data Scientist,2
+301,cloud technology,Data Analyst,1
+302,cloud technology,Data Scientist,5
+303,cloud technology,Intern,1
+304,cloud tool,Data Scientist,1
+305,cloudbased architecture,Data Scientist,1
+306,cloudbased data platform,Data Scientist,1
+307,cloudbased tableau,Data Scientist,1
+308,cluster analysis,Data Scientist,1
+309,clustering,Data Scientist,3
+310,cnet,Data Analyst,1
+311,cnn,Data Scientist,1
+312,coaching,Data Scientist,1
+313,code development,Data Scientist,1
+314,code quality assurance,Data Analyst,1
+315,code review,Data Scientist,1
+316,coding,Data Scientist,8
+317,cognos analytics,Data Scientist,1
+318,cognos bi,Business Intelligence,1
+319,cohort analysis,Data Analyst,1
+320,collaboration,Business Intelligence,2
+321,collaboration,Data Analyst,27
+322,collaboration,Data Scientist,20
+323,collaboration,Intern,4
+324,collaborative,Data Analyst,1
+325,collaborative coding,Data Scientist,1
+326,collaborative development,Data Scientist,1
+327,collaborative work,Data Scientist,1
+328,comet,Data Analyst,1
+329,communication,Business Intelligence,11
+330,communication,Data Analyst,130
+331,communication,Data Scientist,89
+332,communication,Intern,10
+333,communication skill,Business Intelligence,5
+334,communication skill,Data Analyst,34
+335,communication skill,Data Scientist,16
+336,communication skill,Intern,5
+337,complex data analysis,Data Analyst,1
+338,complex problem solving,Data Analyst,1
+339,compliance,Data Analyst,1
+340,compliance,Data Scientist,1
+341,compliance review,Data Analyst,1
+342,compsci,Data Scientist,1
+343,computational,Data Scientist,1
+344,computational analysis,Data Scientist,1
+345,computational research,Data Scientist,1
+346,computer knowledge,Data Analyst,1
+347,computer science,Data Analyst,1
+348,computer science,Data Scientist,2
+349,computer science,Intern,1
+350,computer vision,Data Scientist,15
+351,conducting study,Data Scientist,1
+352,confidentiality,Business Intelligence,1
+353,configuration management,Data Scientist,1
+354,conflict analysis,Data Analyst,1
+355,confluence,Data Analyst,1
+356,confusion matrix,Data Scientist,1
+357,constrained optimization,Data Scientist,1
+358,consultative mindset,Data Analyst,1
+359,consulting,Data Scientist,3
+360,consumer behavior,Data Scientist,1
+361,consumer engagement,Data Scientist,1
+362,consumerfacing product,Data Scientist,1
+363,contact center,Data Analyst,1
+364,container,Data Scientist,1
+365,containerization,Data Scientist,4
+366,continuous improvement,Data Scientist,1
+367,continuous learning,Data Analyst,1
+368,conversion rate optimization,Data Analyst,1
+369,copywriting,Data Analyst,1
+370,cost structure,Data Analyst,1
+371,cost tracking,Data Analyst,1
+372,cpg domain,Data Scientist,1
+373,creative problem solving,Data Scientist,1
+374,creative solution,Data Analyst,1
+375,creative thinking,Data Scientist,2
+376,credit,Data Scientist,1
+377,credit bureau data,Data Scientist,1
+378,critical thinking,Business Intelligence,2
+379,critical thinking,Data Analyst,6
+380,critical thinking,Data Scientist,1
+381,critical thinking,Intern,1
+382,criticalthinking,Data Analyst,1
+383,criticalthinking skill,Business Intelligence,1
+384,crm,Data Analyst,2
+385,crm analytics,Data Scientist,1
+386,crm management,Data Analyst,1
+387,crm platform,Data Analyst,1
+388,crm tool,Business Intelligence,1
+389,crm tool,Data Analyst,1
+390,cross validation,Data Scientist,1
+391,crossfunctional,Data Analyst,1
+392,crossfunctional collaboration,Business Intelligence,1
+393,crossfunctional collaboration,Data Analyst,4
+394,crossfunctional collaboration,Data Scientist,1
+395,crossfunctional initiative,Data Analyst,1
+396,crossfunctional project,Data Scientist,1
+397,crossfunctional team,Business Intelligence,1
+398,crossfunctional team,Data Analyst,1
+399,crossfunctional teamwork,Data Scientist,1
+400,cryptography,Data Analyst,1
+401,crystal report,Data Analyst,1
+402,cs,Data Analyst,1
+403,curiosity,Data Analyst,1
+404,curve,Data Analyst,1
+405,custom object detection,Data Scientist,1
+406,custom reporting,Data Analyst,1
+407,custom visualization,Data Analyst,1
+408,customer analytics,Data Analyst,2
+409,customer analytics,Data Scientist,1
+410,customer behavior,Data Scientist,1
+411,customer data modeling,Data Scientist,1
+412,customer data modelling,Data Scientist,1
+413,customer experience data,Data Analyst,1
+414,customer focus,Business Intelligence,1
+415,customer focus,Data Analyst,1
+416,customer focus,Data Scientist,1
+417,customer journey,Data Analyst,1
+418,customer journey mapping,Data Analyst,1
+419,customer journey optimization,Data Analyst,1
+420,customer modeling,Data Scientist,1
+421,customer relationship management,Intern,1
+422,customer retention,Data Scientist,1
+423,customer segmentation,Data Analyst,1
+424,customer segmentation,Data Scientist,3
+425,customer service,Business Intelligence,3
+426,customer service,Data Analyst,4
+427,customer service,Data Scientist,1
+428,customer service,Intern,1
+429,customer support,Data Analyst,1
+430,dash boarding,Data Analyst,1
+431,dashboard,Business Intelligence,2
+432,dashboard,Data Analyst,9
+433,dashboard,Data Scientist,1
+434,dashboard building,Data Analyst,2
+435,dashboard design,Business Intelligence,2
+436,dashboard design,Intern,1
+437,dashboard development,Data Analyst,2
+438,dashboard development,Data Scientist,1
+439,dashboard development,Intern,1
+440,dashboarding,Data Analyst,5
+441,dashboarding,Data Scientist,1
+442,data,Data Analyst,4
+443,data,Data Scientist,2
+444,data acquisition,Data Analyst,2
+445,data acquisition,Data Scientist,1
+446,data administration,Data Analyst,1
+447,data aggregation,Data Analyst,1
+448,data analysis,Business Intelligence,22
+449,data analysis,Data Analyst,177
+450,data analysis,Data Scientist,115
+451,data analysis,Intern,19
+452,data analysis tool,Data Analyst,6
+453,data analyst,Data Analyst,1
+454,data analytical,Data Scientist,1
+455,data analytics,Business Intelligence,4
+456,data analytics,Data Analyst,29
+457,data analytics,Data Scientist,8
+458,data analytics tool,Data Analyst,1
+459,data architecture,Data Analyst,2
+460,data architecture,Data Scientist,6
+461,data automation,Business Intelligence,1
+462,data blending,Business Intelligence,1
+463,data cleaning,Business Intelligence,1
+464,data cleaning,Data Analyst,11
+465,data cleaning,Data Scientist,8
+466,data cleaning,Intern,1
+467,data cleaning preparation,Data Analyst,1
+468,data cleansing,Business Intelligence,1
+469,data cleansing,Data Analyst,4
+470,data cleansing,Data Scientist,4
+471,data cleansing,Intern,2
+472,data collection,Data Analyst,5
+473,data collection,Data Scientist,3
+474,data collection,Intern,1
+475,data communication,Data Analyst,2
+476,data comparison,Data Analyst,2
+477,data creation,Data Analyst,1
+478,data dependency,Data Analyst,1
+479,data diagnostics,Data Scientist,1
+480,data dictionary,Data Analyst,1
+481,data discrepancy,Data Analyst,1
+482,data driven product,Data Scientist,1
+483,data editing,Data Analyst,1
+484,data engineering,Data Analyst,8
+485,data engineering,Data Scientist,12
+486,data enhancement,Intern,1
+487,data entry,Data Analyst,6
+488,data entry,Intern,1
+489,data exploration,Data Scientist,5
+490,data extraction,Data Analyst,6
+491,data extraction,Data Scientist,5
+492,data extraction,Intern,1
+493,data flow,Data Analyst,1
+494,data fluency,Data Analyst,1
+495,data gathering,Data Scientist,2
+496,data governance,Business Intelligence,2
+497,data governance,Data Analyst,18
+498,data governance,Data Scientist,3
+499,data handling,Data Analyst,1
+500,data infrastructure,Data Scientist,1
+501,data ingestion,Data Analyst,1
+502,data insight,Business Intelligence,1
+503,data insight,Data Analyst,1
+504,data insight,Data Scientist,2
+505,data instrumentation,Data Analyst,1
+506,data integration,Data Analyst,5
+507,data integrity,Data Analyst,6
+508,data integrity,Data Scientist,2
+509,data intelligence,Data Analyst,1
+510,data lake,Data Analyst,4
+511,data lake,Data Scientist,2
+512,data lakehouse,Data Analyst,1
+513,data loading,Data Scientist,1
+514,data management,Business Intelligence,7
+515,data management,Data Analyst,22
+516,data management,Data Scientist,21
+517,data management lifecycle,Data Analyst,1
+518,data management platform,Data Analyst,1
+519,data management tool,Data Analyst,1
+520,data manipulation,Business Intelligence,1
+521,data manipulation,Data Analyst,14
+522,data manipulation,Data Scientist,6
+523,data mapping,Data Analyst,4
+524,data migration,Data Analyst,2
+525,data mining,Business Intelligence,4
+526,data mining,Data Analyst,11
+527,data mining,Data Scientist,40
+528,data mining,Intern,1
+529,data mining algorithm,Data Scientist,1
+530,data model,Data Analyst,3
+531,data model,Data Scientist,2
+532,data model optimization,Data Analyst,1
+533,data modeling,Business Intelligence,11
+534,data modeling,Data Analyst,27
+535,data modeling,Data Scientist,20
+536,data modelling,Data Analyst,2
+537,data modelling,Data Scientist,1
+538,data normalization,Data Scientist,2
+539,data onboarding,Data Analyst,1
+540,data ops,Data Scientist,1
+541,data parsing,Data Scientist,1
+542,data pipeline,Business Intelligence,1
+543,data pipeline,Data Analyst,9
+544,data pipeline,Data Scientist,11
+545,data pipelining,Business Intelligence,1
+546,data platform,Data Analyst,1
+547,data policy,Data Analyst,1
+548,data preparation,Data Analyst,2
+549,data preprocessing,Data Scientist,2
+550,data preprocessing,Intern,1
+551,data presentation,Data Analyst,1
+552,data privacy,Data Scientist,2
+553,data privacy regulation,Data Analyst,1
+554,data processing,Data Analyst,2
+555,data processing,Data Scientist,6
+556,data product,Business Intelligence,1
+557,data profiling,Business Intelligence,1
+558,data profiling,Data Analyst,4
+559,data protection,Data Analyst,1
+560,data quality,Business Intelligence,1
+561,data quality,Data Analyst,9
+562,data quality,Data Scientist,4
+563,data quality management,Data Analyst,1
+564,data querying,Data Analyst,2
+565,data querying,Data Scientist,5
+566,data querying,Intern,1
+567,data reporting,Data Analyst,6
+568,data science,Business Intelligence,1
+569,data science,Data Analyst,6
+570,data science,Data Scientist,107
+571,data science,Intern,5
+572,data science library,Data Scientist,1
+573,data science life cycle,Data Scientist,1
+574,data science method,Data Analyst,1
+575,data science model,Data Scientist,1
+576,data science tool,Data Scientist,3
+577,data scientist,Data Scientist,3
+578,data scripting,Data Scientist,1
+579,data security,Data Analyst,3
+580,data security,Data Scientist,2
+581,data solution,Data Analyst,1
+582,data solution,Data Scientist,2
+583,data source analysis,Data Scientist,2
+584,data stack expertise,Data Analyst,1
+585,data standard,Data Analyst,1
+586,data standardization,Data Scientist,1
+587,data storytelling,Data Analyst,5
+588,data storytelling,Data Scientist,4
+589,data strategy,Data Analyst,1
+590,data structure,Business Intelligence,1
+591,data structure,Data Analyst,2
+592,data structure,Data Scientist,3
+593,data synthesis,Business Intelligence,1
+594,data testing,Data Analyst,1
+595,data tool,Data Scientist,2
+596,data transformation,Business Intelligence,1
+597,data transformation,Data Analyst,5
+598,data transformation,Data Scientist,1
+599,data triage,Data Scientist,1
+600,data validation,Business Intelligence,2
+601,data validation,Data Analyst,11
+602,data validation,Data Scientist,2
+603,data vault,Data Analyst,1
+604,data visualisation,Intern,1
+605,data visualization,Business Intelligence,23
+606,data visualization,Data Analyst,121
+607,data visualization,Data Scientist,102
+608,data visualization,Intern,11
+609,data visualization software,Data Scientist,1
+610,data visualization tool,Data Analyst,1
+611,data warehouse,Business Intelligence,2
+612,data warehouse,Data Analyst,4
+613,data warehouse,Data Scientist,2
+614,data warehouse methodology,Data Analyst,1
+615,data warehousing,Business Intelligence,3
+616,data warehousing,Data Analyst,11
+617,data warehousing,Data Scientist,5
+618,data wrangling,Data Analyst,2
+619,data wrangling,Data Scientist,8
+620,database,Business Intelligence,1
+621,database,Data Analyst,2
+622,database,Data Scientist,1
+623,database,Intern,1
+624,database analysis,Business Intelligence,1
+625,database application,Data Scientist,1
+626,database concept,Business Intelligence,1
+627,database design,Data Analyst,4
+628,database design,Data Scientist,3
+629,database development,Data Analyst,1
+630,database knowledge,Data Analyst,1
+631,database management,Business Intelligence,3
+632,database management,Data Analyst,12
+633,database management,Data Scientist,3
+634,database management,Intern,1
+635,database marketing,Data Analyst,1
+636,database programming,Data Scientist,1
+637,database query,Data Analyst,1
+638,database querying,Data Scientist,1
+639,database setup,Data Scientist,1
+640,database structure,Data Scientist,1
+641,database system,Data Analyst,1
+642,database system,Data Scientist,1
+643,database tool,Data Analyst,1
+644,databrick,Data Analyst,1
+645,databricks,Data Analyst,3
+646,databricks,Data Scientist,10
+647,datadriven decision making,Data Analyst,2
+648,datadriven product development,Data Scientist,1
+649,datadriven recommendation,Data Analyst,1
+650,datadriven solution,Data Scientist,1
+651,datadriven strategy,Data Scientist,1
+652,dataframes,Data Scientist,2
+653,datascience,Data Scientist,1
+654,datasets,Data Scientist,1
+655,dax,Business Intelligence,2
+656,dax,Data Analyst,6
+657,db,Data Analyst,1
+658,dbt,Data Analyst,5
+659,dbt,Data Scientist,3
+660,dbt cloud,Business Intelligence,1
+661,dc understanding,Data Analyst,1
+662,decision tree,Data Scientist,1
+663,deep learning,Data Scientist,34
+664,deepfake detection,Data Scientist,1
+665,delivery optimization,Business Intelligence,1
+666,demand forecasting,Data Scientist,2
+667,demand modeling,Data Scientist,1
+668,denmark payroll knowledge,Data Analyst,1
+669,design pattern,Data Scientist,1
+670,design thinking,Data Scientist,1
+671,detail orientation,Data Analyst,1
+672,detail oriented,Data Analyst,1
+673,detail oriented,Intern,1
+674,dev ops,Data Scientist,1
+675,development roadmaps,Data Scientist,1
+676,devops,Data Analyst,2
+677,devops,Data Scientist,4
+678,devops,Intern,3
+679,devops automation,Data Scientist,1
+680,devops practice,Data Scientist,1
+681,devsecops,Data Scientist,2
+682,dhs experience,Data Analyst,1
+683,digital cartography,Data Scientist,1
+684,digital marketing,Data Analyst,3
+685,digital marketing,Data Scientist,3
+686,digital operation,Data Analyst,1
+687,digital transformation,Data Analyst,1
+688,dimensional modeling,Data Scientist,1
+689,dimensionality reduction,Data Scientist,1
+690,disease registry,Data Scientist,1
+691,distributed computing,Data Scientist,2
+692,distributed system,Data Scientist,1
+693,distributed training,Data Scientist,1
+694,distribution engineering,Data Scientist,1
+695,diversity inclusion,Data Analyst,1
+696,dnaseq,Data Scientist,1
+697,docker,Data Analyst,1
+698,docker,Data Scientist,8
+699,document review,Data Analyst,1
+700,documentation,Business Intelligence,2
+701,documentation,Data Analyst,2
+702,domain expertise,Data Analyst,1
+703,domo,Business Intelligence,1
+704,domo,Data Analyst,1
+705,dundas,Business Intelligence,1
+706,dynamodb,Data Scientist,1
+707,ecommerce,Data Analyst,1
+708,ecommerce,Data Scientist,2
+709,econometric modeling,Data Scientist,1
+710,economics,Data Analyst,1
+711,edi data,Data Analyst,1
+712,edi knowledge,Data Analyst,1
+713,edw,Data Analyst,1
+714,effectiveness,Data Analyst,1
+715,elasticsearch,Data Analyst,1
+716,elasticsearch,Data Scientist,1
+717,elk stack,Data Scientist,1
+718,eloqua,Data Analyst,1
+719,email marketing,Data Analyst,1
+720,email marketing,Data Scientist,1
+721,embedding api,Data Scientist,1
+722,embedding technique,Data Scientist,1
+723,emergency management,Data Scientist,1
+724,emerging analytics,Data Analyst,1
+725,emerging technology,Data Analyst,1
+726,employment regulation,Data Analyst,1
+727,emr,Data Analyst,1
+728,emr,Data Scientist,1
+729,emr extraction,Data Analyst,1
+730,emr serverless,Data Scientist,1
+731,enablon,Data Analyst,2
+732,encryption,Data Analyst,1
+733,endtoend,Data Analyst,1
+734,endtoend modeling,Data Scientist,1
+735,energy expertise,Data Analyst,1
+736,energy modeling,Data Scientist,1
+737,enertia,Data Analyst,1
+738,engineering,Data Analyst,1
+739,engineering,Data Scientist,1
+740,enterprise third party risk management,Data Analyst,1
+741,environmental,Data Analyst,2
+742,environmental data,Data Analyst,1
+743,environmental data analysis,Data Analyst,1
+744,environmental theme,Data Analyst,1
+745,epic clarity,Data Scientist,1
+746,epidemiology,Data Scientist,3
+747,erp,Data Analyst,3
+748,erp system,Data Analyst,4
+749,erp system,Data Scientist,1
+750,esg,Data Analyst,3
+751,esh,Data Analyst,2
+752,esri suite,Data Analyst,1
+753,etl,Business Intelligence,5
+754,etl,Data Analyst,26
+755,etl,Data Scientist,10
+756,etl,Intern,1
+757,etl design,Data Scientist,1
+758,etl pipeline,Business Intelligence,1
+759,etl pipeline,Data Scientist,2
+760,etl process,Business Intelligence,1
+761,etl process,Data Analyst,3
+762,etl process,Data Scientist,1
+763,etl skill,Data Analyst,1
+764,etl tool,Business Intelligence,2
+765,etl tool,Data Analyst,1
+766,etlelt,Data Analyst,1
+767,etq instict,Data Analyst,1
+768,excel,Business Intelligence,10
+769,excel,Data Analyst,75
+770,excel,Data Scientist,8
+771,excel,Intern,4
+772,excel vba,Data Analyst,1
+773,experiment design,Data Scientist,3
+774,experimental design,Data Scientist,6
+775,experimental workflow,Data Scientist,1
+776,experimentation,Data Analyst,1
+777,experimentation,Data Scientist,8
+778,experimentation design,Data Scientist,1
+779,experimentation theory,Data Scientist,1
+780,explainable ai,Data Scientist,2
+781,exploratory analysis,Data Analyst,1
+782,exploratory analysis,Data Scientist,1
+783,exploratory data analysis,Data Analyst,1
+784,facilitation,Data Analyst,1
+785,facilitation skill,Data Analyst,1
+786,fairness evaluation,Data Scientist,1
+787,falcon,Data Scientist,1
+788,fast learner,Data Scientist,1
+789,fastpaced environment,Data Analyst,1
+790,fdc,Data Analyst,1
+791,feature engineering,Data Scientist,2
+792,feature extraction,Data Scientist,2
+793,feature selection,Data Scientist,1
+794,feature vector,Data Scientist,1
+795,federated learning,Data Scientist,2
+796,finance,Data Analyst,2
+797,finance,Data Scientist,1
+798,financial,Business Intelligence,1
+799,financial analysis,Business Intelligence,1
+800,financial analysis,Data Scientist,1
+801,financial analysis,Intern,1
+802,financial crime,Data Analyst,2
+803,financial data,Data Analyst,1
+804,financial data analytics,Data Analyst,1
+805,financial industry,Data Analyst,1
+806,financial market,Data Scientist,1
+807,financial model,Data Analyst,1
+808,financial model,Data Scientist,1
+809,financial service,Business Intelligence,1
+810,financial service,Data Analyst,5
+811,financial statement,Data Analyst,1
+812,fintech,Data Analyst,1
+813,fixed income,Data Analyst,1
+814,flexibility,Data Analyst,1
+815,flexible,Data Analyst,1
+816,flink,Data Scientist,1
+817,flowcal,Data Analyst,1
+818,food safety,Data Analyst,1
+819,forecast modeling,Data Analyst,1
+820,forecasting,Data Analyst,5
+821,forecasting,Data Scientist,10
+822,forensics,Data Scientist,1
+823,fraud,Data Analyst,1
+824,fraud detection,Data Analyst,1
+825,fraud prevention,Data Analyst,1
+826,french canadian proficiency,Data Analyst,1
+827,frontend development,Data Scientist,1
+828,ftp,Business Intelligence,1
+829,functional programming,Data Scientist,1
+830,functional requirement,Data Analyst,1
+831,functional specification documentation,Data Analyst,1
+832,gaap,Data Analyst,1
+833,gaming industry,Data Scientist,2
+834,gcp,Data Scientist,3
+835,gcp bigquery,Data Scientist,1
+836,gen ai,Data Scientist,4
+837,gen ai model,Data Scientist,1
+838,genai,Data Scientist,5
+839,genai capability,Data Scientist,1
+840,generative ai,Data Scientist,10
+841,generative ai,Intern,1
+842,generative model,Data Scientist,1
+843,genomics,Data Analyst,1
+844,geographic information system,Data Analyst,1
+845,geologic data,Data Analyst,1
+846,geospatial analysis,Data Analyst,4
+847,geospatial analytics,Data Scientist,1
+848,geospatial data,Data Scientist,1
+849,geospatial intelligence,Data Analyst,1
+850,geospatial tool,Data Scientist,1
+851,geotechnical data,Data Analyst,1
+852,gi,Data Analyst,5
+853,gi,Data Scientist,2
+854,git,Data Analyst,1
+855,git,Data Scientist,7
+856,github,Data Analyst,3
+857,gitlab,Data Analyst,1
+858,google analytics,Data Analyst,7
+859,google analytics,Data Scientist,1
+860,google big query,Business Intelligence,1
+861,google cloud,Data Scientist,2
+862,google cloud platform,Data Analyst,1
+863,google cloud platform,Data Scientist,1
+864,google looker,Data Analyst,1
+865,google script,Data Analyst,1
+866,google sheet,Data Analyst,5
+867,google suite,Data Analyst,1
+868,gosu programming,Data Analyst,1
+869,governance,Data Scientist,1
+870,gps,Data Analyst,1
+871,gpt,Data Scientist,3
+872,gpu computing,Data Scientist,1
+873,gpu programming,Data Scientist,1
+874,gradient boosting algorithm,Data Scientist,1
+875,gradient descent,Data Scientist,1
+876,grafana,Data Analyst,1
+877,graphbased algorithm,Data Scientist,1
+878,graphing,Data Analyst,1
+879,groovy,Data Scientist,1
+880,growth,Data Scientist,1
+881,growth analytics,Data Analyst,1
+882,growth domain,Data Scientist,1
+883,growth marketing,Data Scientist,1
+884,growth strategy,Data Scientist,1
+885,gtm,Data Analyst,1
+886,guidewire,Data Analyst,1
+887,gxp,Data Analyst,1
+888,hadoop,Business Intelligence,1
+889,hadoop,Data Analyst,2
+890,hadoop,Data Scientist,13
+891,hashboard,Data Analyst,1
+892,hcp data,Data Scientist,1
+893,health,Data Scientist,1
+894,health economics,Data Scientist,1
+895,health informatics,Data Analyst,1
+896,healthcare,Data Analyst,3
+897,healthcare,Data Scientist,1
+898,healthcare analytics,Data Analyst,1
+899,healthcare analytics,Data Scientist,1
+900,healthcare claim,Data Analyst,1
+901,healthcare coding,Data Analyst,1
+902,healthcare data,Business Intelligence,1
+903,healthcare data,Data Analyst,3
+904,healthcare datasets,Data Scientist,1
+905,high performance,Intern,1
+906,hive,Data Scientist,7
+907,hr analytics,Data Analyst,1
+908,hr data,Data Analyst,1
+909,hr data management,Data Analyst,1
+910,hr principle,Data Analyst,1
+911,hr process,Data Analyst,1
+912,hris,Data Analyst,1
+913,hris system,Data Analyst,1
+914,html,Data Analyst,2
+915,html,Data Scientist,1
+916,huggingface,Data Scientist,1
+917,human evaluation,Data Scientist,1
+918,human resource,Data Scientist,1
+919,hyper api,Data Scientist,1
+920,hyperparameter optimization,Data Scientist,1
+921,hyperparameter tuning,Data Scientist,1
+922,hypothesis testing,Data Scientist,1
+923,hypothesis testing,Intern,1
+924,iam role,Data Scientist,1
+925,image experience,Data Scientist,2
+926,image processing,Data Analyst,1
+927,image processing,Data Scientist,1
+928,independence,Data Analyst,1
+929,independent work,Data Analyst,2
+930,industry knowledge,Data Scientist,1
+931,inference,Data Scientist,1
+932,influencing,Data Analyst,1
+933,informatica,Business Intelligence,1
+934,information retrieval,Data Scientist,1
+935,information system,Data Analyst,1
+936,infrastructure,Data Scientist,1
+937,infrastructure planning,Data Scientist,1
+938,infrastructure provisioning,Intern,1
+939,initiative,Data Analyst,1
+940,initiative,Data Scientist,1
+941,insight,Data Analyst,1
+942,insight generation,Data Analyst,1
+943,insurance claim,Data Scientist,1
+944,integration,Intern,1
+945,integration testing,Data Scientist,1
+946,integrity,Intern,1
+947,intercultural communication,Data Analyst,1
+948,intermediate sql,Data Scientist,1
+949,interpersonal skill,Business Intelligence,1
+950,interpersonal skill,Data Analyst,11
+951,interpersonal skill,Data Scientist,3
+952,interpersonal skill,Intern,1
+953,interpretable ml,Data Scientist,1
+954,interpretation,Intern,1
+955,inventory management,Business Intelligence,1
+956,investigative data,Data Analyst,1
+957,investigative experience,Data Analyst,1
+958,issue resolution,Data Analyst,1
+959,itil,Data Analyst,2
+960,iwork suite,Data Analyst,2
+961,java,Data Analyst,2
+962,java,Data Scientist,11
+963,java script,Data Scientist,1
+964,javascript,Data Analyst,2
+965,javascript,Data Scientist,2
+966,jira,Data Analyst,4
+967,jql,Data Analyst,1
+968,json,Data Scientist,1
+969,julia,Data Scientist,1
+970,jupyter notebook,Data Scientist,1
+971,kafka,Data Scientist,1
+972,kanban,Data Analyst,1
+973,kera,Data Scientist,2
+974,kibana,Data Analyst,2
+975,kpi,Data Analyst,1
+976,kpi,Data Scientist,1
+977,kpi calculation,Data Analyst,1
+978,kpi creation,Data Scientist,1
+979,kpi development,Data Scientist,1
+980,kpi scorecard,Business Intelligence,1
+981,kpi tracking,Data Analyst,1
+982,kql,Data Scientist,1
+983,kubeflow,Data Scientist,1
+984,kubernetes,Data Analyst,1
+985,kubernetes,Data Scientist,2
+986,kyc,Data Analyst,1
+987,laboratory procedure,Data Analyst,1
+988,langchain,Data Scientist,2
+989,language semantic concept,Data Scientist,1
+990,large data set,Data Analyst,1
+991,large data set,Data Scientist,1
+992,large datasets,Data Scientist,2
+993,large language model,Data Scientist,3
+994,larger data processing,Data Analyst,1
+995,largescale data analysis,Data Analyst,2
+996,leadership,Business Intelligence,1
+997,leadership,Data Analyst,8
+998,leadership,Data Scientist,2
+999,leadership,Intern,1
+1000,learning,Data Scientist,1
+1001,legal document review,Data Analyst,1
+1002,lidar,Data Analyst,1
+1003,lifelong learner,Data Analyst,1
+1004,lifetime value model,Data Scientist,1
+1005,lims,Data Analyst,1
+1006,linear algebra,Data Analyst,1
+1007,linear algebra,Data Scientist,1
+1008,linear optimization,Data Scientist,1
+1009,linear regression,Data Scientist,1
+1010,linked data,Data Analyst,1
+1011,linux,Data Analyst,4
+1012,linux,Data Scientist,5
+1013,literature review,Data Analyst,1
+1014,llama,Data Scientist,1
+1015,llm,Data Scientist,9
+1016,llm design,Data Scientist,1
+1017,logistic regression,Data Scientist,1
+1018,logistics,Data Analyst,1
+1019,logistics coordination,Data Analyst,2
+1020,looker,Business Intelligence,1
+1021,looker,Data Analyst,8
+1022,looker,Data Scientist,6
+1023,looker dashboard,Data Analyst,1
+1024,m access,Data Analyst,1
+1025,m excel,Data Analyst,4
+1026,m excel,Data Scientist,1
+1027,m form,Data Analyst,1
+1028,m office,Business Intelligence,2
+1029,m office,Data Analyst,3
+1030,m office,Intern,1
+1031,m office suite,Business Intelligence,1
+1032,m powerbi,Data Analyst,1
+1033,m sql,Data Analyst,1
+1034,m sql server,Data Analyst,2
+1035,machine learning,Business Intelligence,2
+1036,machine learning,Data Analyst,15
+1037,machine learning,Data Scientist,198
+1038,machine learning,Intern,5
+1039,machine learning technique,Data Scientist,1
+1040,machinelearning,Data Scientist,1
+1041,macro,Data Analyst,2
+1042,management,Data Analyst,1
+1043,manufacturing,Business Intelligence,1
+1044,manufacturing operation,Data Scientist,1
+1045,map api,Business Intelligence,1
+1046,market analysis,Data Analyst,1
+1047,market data knowledge,Data Analyst,1
+1048,market dynamic,Data Analyst,1
+1049,market research,Data Analyst,2
+1050,market research,Data Scientist,1
+1051,marketing,Business Intelligence,1
+1052,marketing,Data Analyst,1
+1053,marketing,Data Scientist,2
+1054,marketing analysis,Data Scientist,2
+1055,marketing analytics,Data Analyst,3
+1056,marketing analytics,Data Scientist,4
+1057,marketing automation,Data Analyst,1
+1058,marketing campaign,Data Scientist,1
+1059,marketing data,Data Analyst,1
+1060,marketing method,Data Scientist,1
+1061,marketing metric,Data Scientist,1
+1062,marketing mix model,Data Analyst,1
+1063,marketing operation,Data Analyst,1
+1064,marketing science,Data Analyst,1
+1065,marketing science,Data Scientist,1
+1066,marketingspecific data science,Data Scientist,1
+1067,marketplace experimentation,Data Scientist,1
+1068,markovchain modelling,Data Scientist,1
+1069,master data,Data Analyst,1
+1070,math,Data Analyst,1
+1071,math skill,Data Analyst,1
+1072,mathematical,Data Scientist,1
+1073,mathematical concept,Data Scientist,1
+1074,mathematical modeling,Data Analyst,3
+1075,mathematical programming,Data Scientist,1
+1076,mathematical skill,Data Scientist,1
+1077,mathematical technique,Data Scientist,1
+1078,mathematics,Data Analyst,2
+1079,mathematics,Data Scientist,8
+1080,mathematics,Intern,2
+1081,matlab,Data Scientist,4
+1082,matplotlib,Data Analyst,1
+1083,matplotlib,Data Scientist,1
+1084,maximo software,Data Analyst,1
+1085,measurement technique,Data Scientist,1
+1086,medical claim,Data Analyst,1
+1087,medical coding,Data Analyst,1
+1088,medical industry,Data Scientist,1
+1089,medium measurement methodology,Data Scientist,1
+1090,medium mix modeling,Data Scientist,1
+1091,mentoring,Business Intelligence,2
+1092,mentoring,Data Scientist,4
+1093,mentorship,Data Analyst,1
+1094,mentorship,Data Scientist,5
+1095,merchandising,Intern,1
+1096,metadata creation,Data Analyst,1
+1097,metadata management,Data Analyst,1
+1098,meteorological data,Data Scientist,1
+1099,method development,Data Scientist,1
+1100,metric,Data Analyst,1
+1101,metric,Data Scientist,1
+1102,metric database,Data Scientist,1
+1103,metric design,Data Scientist,1
+1104,metric preparation,Business Intelligence,1
+1105,microsoft application,Data Analyst,2
+1106,microsoft azure,Data Analyst,1
+1107,microsoft azure,Data Scientist,1
+1108,microsoft excel,Business Intelligence,5
+1109,microsoft excel,Data Analyst,19
+1110,microsoft excel,Intern,2
+1111,microsoft office,Data Analyst,20
+1112,microsoft office,Data Scientist,1
+1113,microsoft office,Intern,2
+1114,microsoft office suite,Data Analyst,1
+1115,microsoft office suite,Data Scientist,1
+1116,microsoft power apps,Data Analyst,1
+1117,microsoft power bi,Business Intelligence,1
+1118,microsoft power bi,Data Analyst,3
+1119,microsoft power bi,Data Scientist,3
+1120,microsoft power bi,Intern,1
+1121,microsoft powerpoint,Intern,1
+1122,microsoft sharepoint,Data Analyst,2
+1123,microsoft sql,Business Intelligence,1
+1124,microsoft sql server,Data Analyst,1
+1125,microsoft suite,Data Analyst,1
+1126,microsoft technology,Business Intelligence,1
+1127,microsoft tool,Intern,2
+1128,microsoft word,Data Analyst,1
+1129,microstrategy,Data Analyst,1
+1130,minimal supervision,Data Analyst,1
+1131,mining cleansing,Data Analyst,1
+1132,minitab,Data Analyst,1
+1133,mistral,Data Scientist,1
+1134,ml,Data Scientist,7
+1135,ml,Intern,1
+1136,ml algorithm,Data Scientist,2
+1137,ml framework,Data Scientist,4
+1138,ml model,Data Analyst,1
+1139,ml model,Data Scientist,1
+1140,ml paradigm,Data Scientist,1
+1141,ml pipeline,Data Scientist,1
+1142,ml solution,Data Scientist,1
+1143,ml tool,Data Scientist,1
+1144,mldl,Data Scientist,1
+1145,mlflow,Data Scientist,4
+1146,mlframeworks,Data Scientist,1
+1147,mlops,Data Scientist,9
+1148,model,Data Scientist,1
+1149,model building,Data Scientist,1
+1150,model compression,Data Scientist,1
+1151,model deployment,Data Scientist,1
+1152,model development,Data Scientist,3
+1153,model evaluation,Data Scientist,2
+1154,model quality evaluation,Data Analyst,1
+1155,modeling,Data Analyst,1
+1156,modeling,Data Scientist,11
+1157,modeling experience,Data Analyst,1
+1158,modern data science tool,Data Scientist,1
+1159,molecular biology,Data Analyst,1
+1160,mongodb,Data Analyst,1
+1161,mongodb,Data Scientist,2
+1162,mri,Data Analyst,1
+1163,mssql,Business Intelligence,1
+1164,mssql,Intern,1
+1165,multiarmed bandit,Data Scientist,1
+1166,multifunctional team,Data Analyst,1
+1167,multimodal model,Data Scientist,1
+1168,multitasking,Data Analyst,5
+1169,multitouch attribution,Data Analyst,1
+1170,multivariate testing,Data Analyst,1
+1171,mysql,Business Intelligence,1
+1172,mysql,Data Analyst,1
+1173,mysql,Data Scientist,1
+1174,natural language processing,Data Scientist,9
+1175,navy c system,Data Analyst,1
+1176,nc,Data Analyst,1
+1177,ner,Data Scientist,2
+1178,net,Business Intelligence,1
+1179,network analysis,Data Scientist,1
+1180,network automation,Data Analyst,1
+1181,neural network,Data Scientist,5
+1182,neuroimaging analysis,Data Analyst,1
+1183,nlg,Data Scientist,1
+1184,nlp,Data Analyst,1
+1185,nlp,Data Scientist,36
+1186,nlp model,Data Scientist,1
+1187,nlp system,Data Scientist,1
+1188,nlp technique,Data Scientist,1
+1189,nlu,Data Scientist,1
+1190,nosql,Data Analyst,2
+1191,nosql,Data Scientist,3
+1192,numerical optimization,Data Scientist,1
+1193,numpy,Data Scientist,2
+1194,object detection,Data Scientist,5
+1195,observational research,Data Scientist,1
+1196,ocr computer vision,Data Scientist,1
+1197,omni,Data Analyst,1
+1198,oncology,Data Analyst,1
+1199,online medium,Data Scientist,1
+1200,open cv,Data Scientist,1
+1201,open science,Data Scientist,1
+1202,open source,Data Scientist,1
+1203,openai,Data Scientist,1
+1204,opensource,Data Scientist,2
+1205,operation,Data Analyst,1
+1206,operation experience,Data Analyst,1
+1207,operation research,Data Scientist,1
+1208,operational analysis,Business Intelligence,1
+1209,operational tool,Data Analyst,1
+1210,optimization,Data Scientist,17
+1211,optimization algorithm,Data Scientist,1
+1212,optimization model,Data Scientist,2
+1213,oracle,Business Intelligence,1
+1214,oracle,Data Analyst,3
+1215,oracle bi,Data Analyst,2
+1216,oracle eb,Data Analyst,1
+1217,oracle plsql,Data Analyst,1
+1218,oracle sql,Data Analyst,2
+1219,oral communication,Data Scientist,1
+1220,orchestration,Data Scientist,1
+1221,organization,Business Intelligence,1
+1222,organization,Data Analyst,5
+1223,organizational,Intern,1
+1224,organizational ability,Data Analyst,1
+1225,organizational behavior,Data Analyst,1
+1226,organizational behavior,Data Scientist,1
+1227,organizational change,Data Analyst,1
+1228,organizational skill,Business Intelligence,3
+1229,organizational skill,Data Analyst,13
+1230,organizational skill,Data Scientist,2
+1231,organizational skill,Intern,1
+1232,organizing,Business Intelligence,1
+1233,outlook,Data Analyst,1
+1234,paid acquisition,Data Analyst,1
+1235,panda,Data Analyst,1
+1236,panda,Data Scientist,9
+1237,payment analytics,Data Scientist,1
+1238,payroll,Data Analyst,1
+1239,payroll knowledge,Data Analyst,1
+1240,people analytics,Data Analyst,1
+1241,performance,Data Analyst,1
+1242,performance evaluation,Data Scientist,1
+1243,performance marketing,Data Scientist,1
+1244,performance measurement,Data Scientist,1
+1245,performance monitoring,Data Analyst,1
+1246,performance monitoring,Data Scientist,1
+1247,perl,Data Analyst,1
+1248,personalization,Data Scientist,2
+1249,pharmaceutical manufacturing,Data Scientist,1
+1250,pipeline management,Business Intelligence,1
+1251,pki,Data Analyst,1
+1252,planning,Data Analyst,2
+1253,plsql,Business Intelligence,1
+1254,plsql,Data Analyst,1
+1255,policy expertise,Data Analyst,1
+1256,policy standard,Data Analyst,1
+1257,portfolio management,Business Intelligence,1
+1258,positive attitude,Intern,1
+1259,post gresql,Data Analyst,1
+1260,postgres,Data Scientist,1
+1261,postgres,Intern,1
+1262,postgresql,Business Intelligence,1
+1263,postgresql,Data Analyst,1
+1264,postgresql,Data Scientist,2
+1265,power automate,Data Analyst,4
+1266,power bi,Business Intelligence,19
+1267,power bi,Data Analyst,48
+1268,power bi,Data Scientist,7
+1269,power bi,Intern,2
+1270,power data,Data Scientist,1
+1271,power platform,Data Analyst,2
+1272,power query,Business Intelligence,1
+1273,power query,Data Analyst,3
+1274,power system engineering,Data Scientist,1
+1275,power usage,Data Analyst,1
+1276,powerbi,Business Intelligence,3
+1277,powerbi,Data Analyst,8
+1278,powerbi,Data Scientist,4
+1279,powerbi,Intern,2
+1280,powerpivot,Data Analyst,1
+1281,powerpoint,Data Analyst,8
+1282,powerpoint,Data Scientist,1
+1283,powerpoint,Intern,1
+1284,powerpoint presentation,Data Analyst,1
+1285,powerquery,Data Analyst,1
+1286,powershell,Data Analyst,2
+1287,pqms,Data Analyst,1
+1288,prediction algorithm,Data Scientist,1
+1289,predictive analysis,Data Analyst,2
+1290,predictive analysis,Data Scientist,1
+1291,predictive analytics,Data Analyst,3
+1292,predictive analytics,Data Scientist,4
+1293,predictive analytics,Intern,1
+1294,predictive model,Business Intelligence,1
+1295,predictive model,Data Scientist,4
+1296,predictive model,Intern,2
+1297,predictive modeling,Data Analyst,4
+1298,predictive modeling,Data Scientist,22
+1299,predictive modelling,Data Analyst,2
+1300,predictive modelling,Data Scientist,3
+1301,predictive solution,Data Scientist,1
+1302,prescriptive analytics,Data Scientist,1
+1303,presentation,Data Analyst,5
+1304,presentation,Data Scientist,3
+1305,presentation,Intern,1
+1306,presentation development,Data Scientist,1
+1307,presentation preparation,Intern,1
+1308,presentation skill,Data Analyst,6
+1309,presentation skill,Data Scientist,1
+1310,presentation skill,Intern,2
+1311,presenting,Data Analyst,1
+1312,presenting report,Data Scientist,1
+1313,pressure,Data Analyst,1
+1314,pressure management,Data Analyst,1
+1315,pretrained model,Data Scientist,1
+1316,price elasticity,Data Scientist,1
+1317,price setting,Data Analyst,1
+1318,pricing,Data Scientist,1
+1319,pricing analysis,Data Scientist,1
+1320,pricing model,Data Analyst,1
+1321,pricing model,Data Scientist,3
+1322,pricing strategy,Data Analyst,2
+1323,prioritization,Data Scientist,1
+1324,prioritizing,Data Analyst,1
+1325,proactive,Data Analyst,1
+1326,proactive mentality,Business Intelligence,1
+1327,probability,Data Scientist,1
+1328,probability statistical analysis,Data Scientist,1
+1329,probability theory,Data Analyst,1
+1330,problem solving,Business Intelligence,5
+1331,problem solving,Data Analyst,26
+1332,problem solving,Data Scientist,8
+1333,problemsolving,Business Intelligence,7
+1334,problemsolving,Data Analyst,45
+1335,problemsolving,Data Scientist,30
+1336,problemsolving,Intern,5
+1337,problemsolving skill,Data Analyst,1
+1338,problemsolving skill,Data Scientist,1
+1339,problemsolving skill,Intern,1
+1340,process automation,Data Analyst,1
+1341,process automation,Data Scientist,1
+1342,process certification,Data Analyst,1
+1343,process control,Data Analyst,1
+1344,process improvement,Business Intelligence,2
+1345,process improvement,Data Analyst,6
+1346,process improvement,Data Scientist,2
+1347,process management,Data Scientist,1
+1348,process optimization,Business Intelligence,1
+1349,process optimization,Data Analyst,1
+1350,process redesign,Data Analyst,1
+1351,procurement,Data Analyst,2
+1352,procurement knowledge,Intern,1
+1353,product analytics,Data Analyst,4
+1354,product analytics,Data Scientist,2
+1355,product management,Data Analyst,2
+1356,product management,Intern,1
+1357,product master data,Data Analyst,1
+1358,product strategy,Data Scientist,2
+1359,product trend,Data Scientist,1
+1360,product usage,Data Scientist,1
+1361,production code,Data Scientist,1
+1362,production system,Data Scientist,1
+1363,productivity analytics,Data Analyst,1
+1364,productled growth,Data Analyst,1
+1365,proficient llm,Data Scientist,1
+1366,programming,Business Intelligence,2
+1367,programming,Data Analyst,15
+1368,programming,Data Scientist,35
+1369,programming,Intern,1
+1370,programming language,Data Analyst,4
+1371,programming language,Data Scientist,6
+1372,programming python,Data Scientist,1
+1373,project,Business Intelligence,1
+1374,project coordination,Data Scientist,1
+1375,project management,Business Intelligence,3
+1376,project management,Data Analyst,38
+1377,project management,Data Scientist,18
+1378,project management,Intern,1
+1379,project management methodology,Data Analyst,1
+1380,project management tool,Data Analyst,1
+1381,project planning,Data Analyst,1
+1382,project prioritization,Data Analyst,1
+1383,prompt engineering,Data Scientist,4
+1384,proposal management,Business Intelligence,1
+1385,proteomics,Data Scientist,1
+1386,prototype,Data Scientist,1
+1387,prototyping,Data Scientist,1
+1388,public cloud platform,Data Scientist,1
+1389,public health,Data Scientist,1
+1390,public health data,Data Analyst,1
+1391,pyspark,Data Analyst,3
+1392,pyspark,Data Scientist,11
+1393,pyspark,Intern,1
+1394,python,Business Intelligence,12
+1395,python,Data Analyst,119
+1396,python,Data Scientist,233
+1397,python,Intern,9
+1398,python etl,Data Analyst,1
+1399,python mastery,Data Scientist,1
+1400,python programming,Data Scientist,3
+1401,python programming,Intern,1
+1402,pythonr,Data Analyst,1
+1403,pytorch,Data Scientist,13
+1404,qa,Data Analyst,1
+1405,qatesting,Data Analyst,1
+1406,qlik,Data Analyst,2
+1407,qlik,Data Scientist,1
+1408,qlik sense,Business Intelligence,2
+1409,qlik sense,Data Analyst,1
+1410,qlikview,Business Intelligence,2
+1411,qlikview,Data Analyst,1
+1412,qualitative analysis,Data Analyst,2
+1413,qualitative analysis,Data Scientist,1
+1414,qualitative research,Data Scientist,1
+1415,quality,Data Analyst,1
+1416,quality assurance,Data Analyst,1
+1417,quality control,Data Analyst,3
+1418,quality control,Data Scientist,1
+1419,quantitative analysis,Data Analyst,3
+1420,quantitative analysis,Data Scientist,9
+1421,quantitative analytics,Data Scientist,1
+1422,quantitative field,Data Analyst,1
+1423,quantitative method,Data Analyst,1
+1424,quantitative research,Data Scientist,2
+1425,quantitative science,Data Scientist,1
+1426,quantitative skill,Data Analyst,1
+1427,query language,Data Analyst,1
+1428,query performance,Data Analyst,1
+1429,quick learner,Data Analyst,1
+1430,r,Business Intelligence,4
+1431,r,Data Analyst,61
+1432,r,Data Scientist,97
+1433,r,Intern,5
+1434,r markdown,Data Scientist,1
+1435,r programming,Data Analyst,2
+1436,r programming,Data Scientist,1
+1437,rag,Data Scientist,1
+1438,rag architecture,Data Scientist,1
+1439,rag technique,Data Scientist,1
+1440,random forest,Data Scientist,1
+1441,rd,Data Scientist,2
+1442,react,Data Analyst,1
+1443,realtime processing,Data Scientist,1
+1444,realworld evidence,Data Scientist,1
+1445,recommendation,Data Analyst,1
+1446,recommendation,Data Scientist,1
+1447,recommendation algorithm,Data Scientist,3
+1448,recommendation engine,Data Scientist,1
+1449,recommendation system,Data Scientist,1
+1450,record management,Data Scientist,1
+1451,recruiting process,Data Analyst,1
+1452,redcap,Data Scientist,1
+1453,redshift,Intern,1
+1454,regex,Data Scientist,1
+1455,regression,Data Scientist,6
+1456,regression analysis,Data Scientist,2
+1457,regression model,Data Scientist,1
+1458,regulation,Data Scientist,1
+1459,regulatory compliance,Data Scientist,1
+1460,regulatory framework,Data Scientist,1
+1461,regulatory knowledge,Data Scientist,1
+1462,reinforcement learning,Data Scientist,8
+1463,relational database,Business Intelligence,1
+1464,relational database,Data Analyst,9
+1465,relational database,Data Scientist,1
+1466,relational database modeling,Data Analyst,1
+1467,relationship building,Data Analyst,4
+1468,relationshipbuilding,Data Scientist,1
+1469,reliable,Data Analyst,1
+1470,report auditing,Business Intelligence,1
+1471,report automation,Data Analyst,1
+1472,report creation,Data Analyst,1
+1473,report design,Business Intelligence,1
+1474,report generation,Business Intelligence,1
+1475,report generation,Data Analyst,1
+1476,report preparation,Business Intelligence,1
+1477,report presentation,Data Analyst,1
+1478,report writing,Data Analyst,2
+1479,report writing,Data Scientist,2
+1480,reporting,Business Intelligence,6
+1481,reporting,Data Analyst,27
+1482,reporting,Data Scientist,2
+1483,reporting package,Data Analyst,1
+1484,reporting tool,Data Analyst,4
+1485,requirement gathering,Data Analyst,5
+1486,research,Data Analyst,1
+1487,research,Data Scientist,1
+1488,research,Intern,1
+1489,research design,Data Analyst,1
+1490,research design,Data Scientist,1
+1491,research objective,Data Scientist,1
+1492,research skill,Intern,1
+1493,researching,Data Analyst,1
+1494,rest api,Data Analyst,1
+1495,rest api,Data Scientist,1
+1496,rest apis,Data Scientist,2
+1497,result analysis,Data Analyst,1
+1498,resultfocused,Data Analyst,1
+1499,retail,Data Scientist,1
+1500,retail buying principle,Intern,1
+1501,return investment,Data Analyst,1
+1502,revenue management,Data Scientist,1
+1503,rfp management,Data Analyst,1
+1504,risk,Data Analyst,2
+1505,risk,Data Scientist,1
+1506,risk analysis,Data Analyst,1
+1507,risk analysis,Data Scientist,1
+1508,risk assessment,Data Scientist,1
+1509,risk management,Data Analyst,1
+1510,risk reporting,Data Analyst,1
+1511,rnaseq,Data Scientist,1
+1512,rnn,Data Scientist,1
+1513,roadmaps,Data Analyst,2
+1514,roc curve,Data Scientist,1
+1515,route planning,Business Intelligence,1
+1516,rpython,Data Scientist,2
+1517,sa,Business Intelligence,2
+1518,sa,Data Analyst,9
+1519,sa,Data Scientist,18
+1520,sa macro,Data Analyst,1
+1521,sa programming,Data Analyst,3
+1522,saas,Data Analyst,1
+1523,safe,Data Analyst,1
+1524,safety minded,Data Scientist,1
+1525,sagemaker,Data Scientist,1
+1526,sale,Business Intelligence,1
+1527,sale,Data Analyst,1
+1528,sale analytics,Data Analyst,1
+1529,sale operation,Data Analyst,1
+1530,salesforce,Data Analyst,2
+1531,salesforcecom,Data Analyst,1
+1532,sampling methodology,Data Scientist,1
+1533,sap,Business Intelligence,1
+1534,sap,Data Analyst,2
+1535,sap b,Data Analyst,1
+1536,sap erp,Business Intelligence,1
+1537,satellite data,Data Scientist,2
+1538,scada,Data Analyst,1
+1539,scala,Data Analyst,1
+1540,scala,Data Scientist,12
+1541,scalable coding,Data Scientist,1
+1542,schema design,Data Analyst,1
+1543,scientific method,Data Scientist,1
+1544,scikitlearn,Data Scientist,6
+1545,scripting,Data Analyst,4
+1546,scripting,Data Scientist,3
+1547,scripting,Intern,2
+1548,scripting language,Data Analyst,3
+1549,scripting language,Data Scientist,3
+1550,scrum,Business Intelligence,1
+1551,scrum,Data Analyst,4
+1552,scrum master,Data Analyst,1
+1553,sdlc,Data Analyst,8
+1554,sdlc,Data Scientist,1
+1555,seaborn,Data Scientist,1
+1556,search ranking algorithm,Data Scientist,1
+1557,security concept,Intern,1
+1558,segmentation modeling,Data Scientist,1
+1559,selfmotivation,Data Analyst,1
+1560,selfstarter,Data Analyst,2
+1561,selfstarter,Data Scientist,2
+1562,semantic model,Data Scientist,1
+1563,servicenow,Data Analyst,1
+1564,sharepoint,Data Analyst,5
+1565,shell,Data Analyst,1
+1566,shiny,Data Scientist,1
+1567,sigma computing,Data Analyst,1
+1568,simulation,Data Scientist,4
+1569,simulation tool,Data Scientist,1
+1570,six sigma,Data Analyst,2
+1571,sklearn,Data Scientist,1
+1572,sme input,Data Scientist,1
+1573,snowflake,Business Intelligence,1
+1574,snowflake,Data Analyst,6
+1575,snowflake,Data Scientist,2
+1576,snowpark,Data Scientist,1
+1577,soapui,Business Intelligence,1
+1578,social analytics,Data Analyst,2
+1579,social medium analytics,Data Analyst,1
+1580,social skill,Data Analyst,1
+1581,soft skill,Data Scientist,1
+1582,software architecture,Data Scientist,1
+1583,software configuration,Data Analyst,1
+1584,software design,Data Scientist,1
+1585,software development,Data Analyst,2
+1586,software development,Data Scientist,5
+1587,software development life cycle,Data Analyst,1
+1588,software engineering,Data Analyst,1
+1589,software engineering,Data Scientist,4
+1590,software language,Data Scientist,1
+1591,software solution,Data Analyst,1
+1592,solutionoriented,Data Analyst,1
+1593,spark,Data Analyst,4
+1594,spark,Data Scientist,18
+1595,sparkml,Data Scientist,1
+1596,sparksql,Data Scientist,4
+1597,spatial analysis,Data Analyst,1
+1598,spatial analysis,Data Scientist,1
+1599,spatiotemporal analysis,Data Scientist,1
+1600,spotfire,Data Analyst,1
+1601,spotfire,Data Scientist,1
+1602,spreadsheet,Data Scientist,1
+1603,spss,Data Analyst,2
+1604,spss,Data Scientist,1
+1605,sql,Business Intelligence,34
+1606,sql,Data Analyst,195
+1607,sql,Data Scientist,199
+1608,sql,Intern,12
+1609,sql code development,Data Analyst,1
+1610,sql data analysis,Data Analyst,1
+1611,sql database design,Data Analyst,1
+1612,sql developer,Data Analyst,1
+1613,sql proficiency,Data Analyst,1
+1614,sql query,Business Intelligence,1
+1615,sql query,Data Analyst,1
+1616,sql querying,Data Analyst,1
+1617,sql reporting,Data Analyst,1
+1618,sql server,Data Analyst,4
+1619,sql server,Data Scientist,1
+1620,sqlalchemy,Data Analyst,1
+1621,ssis,Business Intelligence,1
+1622,ssrs,Business Intelligence,1
+1623,ssrs,Data Analyst,1
+1624,stakeholder alignment,Data Analyst,1
+1625,stakeholder collaboration,Data Analyst,1
+1626,stakeholder collaboration,Data Scientist,1
+1627,stakeholder communication,Data Scientist,1
+1628,stakeholder engagement,Data Analyst,2
+1629,stakeholder engagement,Data Scientist,1
+1630,stakeholder management,Business Intelligence,1
+1631,stakeholder management,Data Analyst,3
+1632,stakeholder management,Data Scientist,5
+1633,standard,Data Analyst,1
+1634,startup,Data Scientist,1
+1635,statistic,Business Intelligence,3
+1636,statistic,Data Analyst,11
+1637,statistic,Data Scientist,45
+1638,statistic,Intern,3
+1639,statistical,Data Scientist,1
+1640,statistical analysis,Business Intelligence,4
+1641,statistical analysis,Data Analyst,31
+1642,statistical analysis,Data Scientist,49
+1643,statistical analysis,Intern,4
+1644,statistical analysis plan,Data Scientist,1
+1645,statistical analytical technique,Data Scientist,1
+1646,statistical analytics,Data Analyst,1
+1647,statistical background,Data Analyst,1
+1648,statistical coding,Data Analyst,1
+1649,statistical concept,Data Analyst,2
+1650,statistical concept,Data Scientist,1
+1651,statistical inference,Data Scientist,4
+1652,statistical language,Data Scientist,1
+1653,statistical method,Data Analyst,5
+1654,statistical method,Data Scientist,12
+1655,statistical methodology,Data Scientist,1
+1656,statistical model,Data Analyst,1
+1657,statistical model,Data Scientist,6
+1658,statistical modeling,Data Analyst,5
+1659,statistical modeling,Data Scientist,42
+1660,statistical modeling,Intern,1
+1661,statistical modelling,Data Analyst,1
+1662,statistical package,Data Scientist,1
+1663,statistical program,Data Scientist,1
+1664,statistical programming,Data Scientist,2
+1665,statistical skill,Data Analyst,1
+1666,statistical skill,Data Scientist,1
+1667,statistical software,Data Analyst,4
+1668,statistical software,Data Scientist,3
+1669,statistical software,Intern,1
+1670,statistical table,Data Analyst,1
+1671,statistical technique,Data Analyst,4
+1672,statistical technique,Data Scientist,10
+1673,statistical technique,Intern,1
+1674,statistical testing,Data Analyst,1
+1675,statistical testing,Data Scientist,1
+1676,statistical theory,Data Analyst,1
+1677,statistical tool,Data Analyst,3
+1678,stochastic data modeling,Data Scientist,1
+1679,stoploss,Data Analyst,1
+1680,storytelling,Data Analyst,3
+1681,storytelling data,Data Analyst,1
+1682,storytelling data,Data Scientist,1
+1683,strategic mindset,Data Analyst,1
+1684,strategic recommendation,Data Scientist,1
+1685,strategic thinking,Data Analyst,2
+1686,strategic thinking,Data Scientist,2
+1687,strategic thinking,Intern,1
+1688,strategy,Data Analyst,1
+1689,strategy development,Data Analyst,1
+1690,strong communication,Data Analyst,1
+1691,structured data,Data Analyst,1
+1692,studio,Data Scientist,1
+1693,summit,Data Analyst,1
+1694,supervised learning,Data Scientist,5
+1695,supplier management,Intern,1
+1696,supply chain,Data Scientist,1
+1697,supply chain analysis,Data Scientist,1
+1698,supply chain metric,Business Intelligence,1
+1699,supply chain operation,Data Analyst,1
+1700,supply chain optimization,Intern,1
+1701,survey,Data Analyst,1
+1702,survey design,Data Analyst,1
+1703,sustainability,Data Analyst,2
+1704,synapse analytics,Data Analyst,1
+1705,system analysis,Data Analyst,1
+1706,system design,Data Analyst,1
+1707,system development,Data Analyst,2
+1708,system engineering,Data Scientist,1
+1709,system implementation,Data Analyst,1
+1710,system integration,Data Analyst,3
+1711,system programming,Data Analyst,1
+1712,system testing,Data Analyst,1
+1713,tableau,Business Intelligence,10
+1714,tableau,Data Analyst,59
+1715,tableau,Data Scientist,20
+1716,tableau extension api,Data Scientist,1
+1717,tableau rest api,Data Scientist,1
+1718,tableau visualization,Data Analyst,1
+1719,tag management system,Data Analyst,1
+1720,tagging plan,Data Analyst,1
+1721,talend,Business Intelligence,1
+1722,talend,Data Analyst,1
+1723,task prioritization,Data Analyst,1
+1724,tax law,Data Analyst,1
+1725,tdd,Data Scientist,2
+1726,teaching,Data Scientist,1
+1727,teaching orientation,Data Analyst,1
+1728,team building,Data Analyst,1
+1729,team collaboration,Data Analyst,5
+1730,team collaboration,Data Scientist,3
+1731,team environment,Business Intelligence,1
+1732,team leadership,Data Scientist,1
+1733,team management,Data Scientist,1
+1734,team player,Data Analyst,4
+1735,teamoriented,Data Analyst,1
+1736,teamwork,Business Intelligence,1
+1737,teamwork,Data Analyst,17
+1738,teamwork,Data Scientist,3
+1739,teamwork,Intern,2
+1740,technical aptitude,Data Analyst,2
+1741,technical attribute,Data Analyst,1
+1742,technical briefing,Data Scientist,1
+1743,technical data skill,Data Analyst,1
+1744,technical design,Data Analyst,1
+1745,technical documentation,Data Analyst,2
+1746,technical expertise,Data Scientist,1
+1747,technical lead experience,Data Analyst,1
+1748,technical proficiency,Business Intelligence,1
+1749,technical requirement,Data Analyst,1
+1750,technical skill,Data Analyst,1
+1751,technical skill,Intern,1
+1752,technical solution,Data Scientist,1
+1753,technical specification,Data Analyst,1
+1754,technical support,Business Intelligence,1
+1755,technical writing,Data Analyst,3
+1756,technical writing,Data Scientist,1
+1757,technology,Data Analyst,1
+1758,technology introduction,Intern,1
+1759,technology tool,Business Intelligence,1
+1760,telecom,Data Scientist,1
+1761,telecom industry,Data Scientist,1
+1762,telematics data,Data Scientist,1
+1763,telemetry,Data Analyst,2
+1764,tensor flow,Data Scientist,2
+1765,tensorflow,Data Scientist,17
+1766,terraform,Data Analyst,1
+1767,test case,Data Analyst,1
+1768,test design,Data Analyst,1
+1769,test planning,Data Analyst,1
+1770,testing,Data Analyst,3
+1771,text analysis,Data Analyst,1
+1772,text analytics,Data Analyst,1
+1773,text analytics,Data Scientist,1
+1774,text mining,Data Scientist,3
+1775,text summarization,Data Scientist,1
+1776,textual data,Data Scientist,1
+1777,tidyverse,Data Scientist,1
+1778,time management,Business Intelligence,2
+1779,time management,Data Analyst,10
+1780,time management,Intern,1
+1781,time series,Data Scientist,3
+1782,time series analysis,Data Scientist,3
+1783,time series forecasting,Data Scientist,4
+1784,time series forecasting,Intern,1
+1785,time serious,Data Scientist,1
+1786,timeseries analysis,Data Scientist,1
+1787,timeseries forecasting,Data Scientist,4
+1788,toad,Data Analyst,1
+1789,tool evaluation,Data Analyst,1
+1790,trackwise,Data Analyst,1
+1791,trading principle,Business Intelligence,1
+1792,training,Business Intelligence,1
+1793,training,Data Analyst,1
+1794,training,Data Scientist,1
+1795,transaction monitoring,Data Scientist,1
+1796,transfer learning,Data Scientist,1
+1797,transformer,Data Scientist,1
+1798,transportation operation,Business Intelligence,1
+1799,trend analysis,Data Analyst,2
+1800,troubleshooting,Data Analyst,1
+1801,troubleshooting,Data Scientist,1
+1802,tsql,Business Intelligence,1
+1803,tsql,Data Analyst,1
+1804,tssci clearance,Data Scientist,1
+1805,typescript,Data Analyst,1
+1806,u electricity market,Data Scientist,1
+1807,ui design,Data Analyst,1
+1808,ui design,Data Scientist,1
+1809,ui technology,Data Scientist,1
+1810,uiux,Data Analyst,1
+1811,uiux,Data Scientist,1
+1812,underwriting,Data Analyst,1
+1813,unit testing,Data Scientist,2
+1814,unix,Data Analyst,1
+1815,unix,Data Scientist,3
+1816,unix command,Data Scientist,1
+1817,unixlinux,Data Scientist,2
+1818,unstructured data,Data Analyst,1
+1819,unsupervised learning,Data Scientist,4
+1820,use case,Data Analyst,2
+1821,user acceptance testing,Data Analyst,1
+1822,user behavior,Data Scientist,1
+1823,user empathy,Data Analyst,1
+1824,user experience,Data Analyst,1
+1825,user experience research,Data Analyst,2
+1826,user interface,Data Analyst,1
+1827,user interview,Data Scientist,1
+1828,user requirement,Data Analyst,1
+1829,user story,Data Analyst,3
+1830,user testing,Business Intelligence,1
+1831,ux design,Data Scientist,1
+1832,valuebased care,Data Analyst,1
+1833,vba,Data Analyst,4
+1834,vector database,Data Scientist,1
+1835,verbal communication,Data Analyst,1
+1836,verbal communication,Data Scientist,1
+1837,version control,Data Scientist,5
+1838,visio,Business Intelligence,1
+1839,visual analytics,Data Scientist,2
+1840,visual basic,Data Analyst,1
+1841,visual design,Data Analyst,1
+1842,visual report,Business Intelligence,1
+1843,visual studio,Data Analyst,1
+1844,visualization,Business Intelligence,1
+1845,visualization,Data Analyst,10
+1846,visualization,Data Scientist,14
+1847,visualization tool,Business Intelligence,1
+1848,visualization tool,Data Analyst,4
+1849,visualization tool,Data Scientist,1
+1850,warehouse operation,Business Intelligence,1
+1851,warehousing,Data Scientist,1
+1852,waterfall,Data Analyst,1
+1853,web analytics,Data Analyst,7
+1854,web development,Data Analyst,1
+1855,web scraping,Data Scientist,1
+1856,website optimization,Data Analyst,1
+1857,word,Data Analyst,1
+1858,work ethic,Data Analyst,1
+1859,workforce modeling,Data Analyst,1
+1860,written communication,Data Analyst,1
+1861,xgboost,Data Scientist,4
+1862,xml,Data Scientist,2
+1863,yellowfin,Business Intelligence,1
