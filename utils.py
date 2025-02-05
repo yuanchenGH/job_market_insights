@@ -169,9 +169,93 @@ def transform(text, prompt, id):
     print(f"Failed to retrieve dictionary after maximum retries for ID: {id}.")
     return None
 
+import re
+import pandas as pd
+
+def process_title(row):
+    """
+    Processes a job title by:
+      1. Removing periods.
+      2. Removing any text after a hyphen.
+      3. Extracting keywords (jr, junior, sr, senior, lead, principal)
+         into a separate column.
+      4. Removing any text within parentheses.
+      5. Removing the extracted keywords from the title.
+      6. Replacing abbreviations with their full forms.
+      7. Ignoring case during processing but returning final results in title case.
+    
+    Returns:
+        cleaned_title: The cleaned job title (title-cased).
+        extracted_info: The extracted keywords (title-cased) as a comma-separated string, or None.
+    """
+    title = row['job_title']
+    if not isinstance(title, str):
+        row['job_level'] = None
+        return row
+
+    # Abbreviations mapping (keys and values are in proper title format)
+    abbreviations = {
+        'CEO': 'Chief Executive Officer',
+        'CFO': 'Chief Financial Officer',
+        'COO': 'Chief Operating Officer',
+        'CRO': 'Chief Revenue Officer',
+        'CTO': 'Chief Technology Officer',
+        'VP': 'Vice President',
+        'Jr': 'Junior',
+        'Sr': 'Senior'
+    }
+
+    # --- Step 1: Remove periods.
+    title = title.replace('.', '')
+
+    # --- Step 2: Remove any text after a hyphen.
+    if '-' in title:
+        title = title.split('-')[0].strip()
+
+    # --- Store a copy for keyword extraction (before removing parentheses)
+    title_for_extraction = title
+
+    # --- Step 3: Extract keywords (ignore case)
+    pattern_extract = r'\b(?:jr|junior|sr|senior|lead|principal)\b'
+    matches = re.findall(pattern_extract, title_for_extraction, flags=re.IGNORECASE)
+
+    # --- Step 4: Remove any text within parentheses (including the parentheses)
+    title = re.sub(r'\([^)]*\)', '', title).strip()
+
+    # --- Step 5: Remove the extracted keywords from the title.
+    cleaned_title = re.sub(pattern_extract, '', title, flags=re.IGNORECASE).strip()
+    cleaned_title = re.sub(r'\s+', ' ', cleaned_title)  # normalize extra spaces
+
+    # --- Step 6: Replace abbreviations in the cleaned_title.
+    for abbr, full in abbreviations.items():
+        # Replace whole word matches using case-insensitive flag.
+        pattern = r'\b' + re.escape(abbr) + r'\b'
+        cleaned_title = re.sub(pattern, full, cleaned_title, flags=re.IGNORECASE)
+
+    # --- Process the extracted keywords: replace abbreviations as needed.
+    def replace_keyword(keyword, abbrev_dict):
+        # Find matching abbreviation ignoring case, and return its full form if available.
+        for key, value in abbrev_dict.items():
+            if keyword.lower() == key.lower():
+                return value
+        # If not found, just return the keyword in title case.
+        return keyword.title()
+
+    extracted_info_list = [replace_keyword(m, abbreviations) for m in matches]
+    extracted_info = ', '.join(extracted_info_list) if extracted_info_list else None
+
+    # --- Step 7: Capitalize (title-case) the final outputs.
+    cleaned_title = cleaned_title.title()
+    row['job_title_clean'] = cleaned_title
+    if extracted_info:
+        # Each component is already replaced with the full form (which is expected to be properly capitalized).
+        row['job_title_level'] = extracted_info.title()
+
+    return row
+
+
 def simplify_titles_finance(row):
     simple_titles = ['assistant','advisor','analyst','accountant','associate','bookkeeper','banker','consultant','counselor','controller','chair','chief of staff','chief executive officer','chief financial officer','chief operating officer','chief revenue officer','chief technology officer','director','head','intern','manager','officer','professor','predsident','specialist','teller','trader','underwriter','vice president']
-    # function = ['finance','management','','accounts payable', 'accounts receivable','budget','fixed income']
     seniority = ['junior','senior','lead','principal']
     abbreviations = {
         'CEO': 'Chief Executive Officer',
@@ -179,7 +263,9 @@ def simplify_titles_finance(row):
         'COO': 'Chief Operating Officer',
         'CRO': 'Chief Revenue Officer',
         'CTO': 'Chief Technology Officer',
-        'VP': 'Vice President'
+        'VP': 'Vice President',
+        'Jr': 'Junior',
+        'Sr': 'Senior'
     }
 
     titles_pattern = r'\b(?:' + r'|'.join(r' '.join(part for part in title.split()) for title in simple_titles) + r')\b'
