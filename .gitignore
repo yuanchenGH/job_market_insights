@@ -4,6 +4,7 @@
 *.png
 *.docx
 *.env
+*.pbix
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
